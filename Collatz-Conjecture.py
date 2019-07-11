@@ -14,3 +14,4 @@ def ccs():
             else:
                 i = i * 3 + 1
 
+ccs()
